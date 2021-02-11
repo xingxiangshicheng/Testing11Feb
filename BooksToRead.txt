@@ -3,4 +3,8 @@ Books recommended:
 7 habits of highly effective people
 one piece
 ready player two
+<<<<<<< HEAD
 naruto
+=======
+demon slayer
+>>>>>>> 381e1b1849d54682d15d8fe4610325197b2d7598
